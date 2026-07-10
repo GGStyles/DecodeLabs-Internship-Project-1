@@ -106,9 +106,8 @@ customer-data-cleaning/
 
 ## Project Files
 
-- 📄 [Raw Dataset](data/raw/Customer_Data_Raw.xlsx)
+- 📄 [Raw Dataset](Datasets/Raw_Data.xlsx)
 - 📄 [Cleaned Dataset](data/cleaned/Customer_Data_Clean.xlsx)
-- 📄 [Power Query File](power-query/Data_Cleaning_Steps.pq)
 
 # Data Cleaning Workflow
 
