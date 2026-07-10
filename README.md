@@ -1,4 +1,4 @@
-# Customer Data Cleaning Using Power Query
+# E-Commerce Data Cleaning Using Power Query
 
 ![Raw_Dataset](<images/The Hidden Work of Data Analyst.png>)
 
@@ -85,10 +85,10 @@ customer-data-cleaning/
 │
 ├── data/
 │   ├── raw/
-│   │   └── Customer_Data_Raw.xlsx
+│   │   └── E-Commerce_Data_Raw.xlsx
 │   │
 │   └── cleaned/
-│       └── Customer_Data_Clean.xlsx
+│       └── E-Commerce_Data_Clean.xlsx
 │
 ├── power-query/
 │   └── Data_Cleaning_Steps.pq
