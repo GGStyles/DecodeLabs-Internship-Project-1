@@ -1,5 +1,23 @@
 # E-Commerce Data Cleaning Using Power Query
 
+## 📑 Table of Contents
+
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Key Highlights](#key-highlights)
+- [Dataset](#dataset)
+- [Data Quality Issues Identified](#data-quality-issues-identified)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Tools Used](#tools-used)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Project Structure](#project-structure)
+- [Project Files](#project-files)
+- [Data Cleaning Flow](#data-cleaning-flow)
+- [Outcome](#outcome)
+- [Conclusion](#conclusion)
+- [Author](#author)
+
+
 ![Raw_Dataset](<images/The Hidden Work of Data Analyst.png>)
 
 ## Project Overview
